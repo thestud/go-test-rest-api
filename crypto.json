@@ -1,0 +1,32 @@
+[
+  {
+    "Id": 0,
+    "Name": "Bitcoin",
+    "Percentage": 60
+  },
+  {
+    "Id": 1,
+    "Name": "Litecoin",
+    "Percentage": 5
+  },
+  {
+    "Id": 2,
+    "Name": "Bitcoin Cash",
+    "Percentage": 20
+  },
+  {
+    "Id": 3,
+    "Name": "Ethereum",
+    "Percentage": 5
+  },
+  {
+    "Id": 4,
+    "Name": "EOS",
+    "Percentage": 5
+  },
+  {
+    "Id": 5,
+    "Name": "Tron",
+    "Percentage": 5
+  }
+]
