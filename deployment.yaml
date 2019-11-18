@@ -14,7 +14,7 @@ spec:
     spec:                        # Spec for the container which will run in the Pod
       containers:
       - name: go-test-rest-api
-        image: callicoder/go-test-rest-api:1.0.0 
+        image: go-test-rest-api 
         imagePullPolicy: IfNotPresent
         ports:
           - containerPort: 4000  # Should match the port number that the Go application listens on
